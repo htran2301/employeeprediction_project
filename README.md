@@ -92,3 +92,9 @@ This project demonstrates how machine learning can be applied to HR analytics to
 - Dataset is historical and static
 - Results are intended for analytical and educational purposes
 
+Contributors: 
+Pouya Khazaeli Pour
+Hiba Ashan 
+Sumanth 
+Mourya
+
